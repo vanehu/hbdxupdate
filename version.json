@@ -1,0 +1,10 @@
+{
+  "Code": 0,
+  "Msg": "",
+  "UpdateStatus": 1,
+  "VersionCode": 1,
+  "VersionName": "1.0.0",
+  "UploadTime": "2019-08-28 23:20:00",
+  "ModifyContent": "\r\n1、增加自动更新。",
+  "DownloadUrl": "https://raw.githubusercontent.com/xuexiangjys/XUpdate/master/apk/xupdate_demo_1.0.2.apk"
+}
