@@ -2,7 +2,7 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 1,
+  "VersionCode": 3,
   "VersionName": "1.0.0",
   "UploadTime": "2019-08-28 23:20:00",
   "ModifyContent": "\r\n1、增加自动更新。",
